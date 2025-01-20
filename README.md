@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OliverD30
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on anything.
+- 💞️ I’m looking to collaborate on AI related projects.
 - 📫 How to reach me email: oliver@provento.se
 
 <!---
